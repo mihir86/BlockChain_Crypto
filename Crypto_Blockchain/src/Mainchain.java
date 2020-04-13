@@ -103,7 +103,7 @@ add user ID SUPPROT
 
    switch (ch) {
     case 1:
-     if (zkpdiscretelog(5, 9) == true) {
+     if (zkpdiscretelog(5, 9) == false) {
       break;
      }
      System.out.println("Press 1 to donate to Organisation 1");
