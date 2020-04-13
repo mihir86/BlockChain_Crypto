@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Block {
     //userID: stores user data such as Aadhar Number, PAN Number in the form of a String
     //epochTime: stores time elapsed since 1/1/1970
-    //nonce: a arbitrary number that is used once
+    //Nonce: a arbitrary number that is used once
     public String userID;
     public String blockHash;
     public String previousBlockHash;
